@@ -28,6 +28,6 @@ hs_err_pid*
 .project
 *.iml
 /out/
-target/
+target/*
 .idea
 .DS_Store
